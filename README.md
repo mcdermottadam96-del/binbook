@@ -1,0 +1,2 @@
+# binbook
+BinBook dumpster directory
